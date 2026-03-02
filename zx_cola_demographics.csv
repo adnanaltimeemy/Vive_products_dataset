@@ -1,0 +1,89 @@
+year,region,demographic_category,demographic_value,share_pct,estimated_units
+2024,United Kingdom,Age Group,18-24,12.24,1372680
+2024,United Kingdom,Age Group,25-34,25.11,2815063
+2024,United Kingdom,Age Group,35-44,19.09,2140023
+2024,United Kingdom,Age Group,45-54,11.62,1302558
+2024,United Kingdom,Age Group,55+,31.94,3581118
+2024,United Kingdom,Gender,Female,36.29,4068925
+2024,United Kingdom,Gender,Male,15.78,1769220
+2024,United Kingdom,Gender,Other,47.93,5373297
+2024,United Kingdom,Income Bracket,High,9.4,1053842
+2024,United Kingdom,Income Bracket,Low,25.7,2881084
+2024,United Kingdom,Income Bracket,Medium,64.9,7276516
+2023,United Kingdom,Age Group,18-24,25.88,2979443
+2023,United Kingdom,Age Group,25-34,32.18,3703541
+2023,United Kingdom,Age Group,35-44,1.71,196272
+2023,United Kingdom,Age Group,45-54,33.53,3859639
+2023,United Kingdom,Age Group,55+,6.7,771493
+2023,United Kingdom,Gender,Female,46.38,5338510
+2023,United Kingdom,Gender,Male,1.05,120756
+2023,United Kingdom,Gender,Other,52.57,6051121
+2023,United Kingdom,Income Bracket,High,4.85,558444
+2023,United Kingdom,Income Bracket,Low,78.0,8978005
+2023,United Kingdom,Income Bracket,Medium,17.15,1973938
+2022,United Kingdom,Age Group,18-24,44.65,4366077
+2022,United Kingdom,Age Group,25-34,22.47,2197111
+2022,United Kingdom,Age Group,35-44,5.04,492955
+2022,United Kingdom,Age Group,45-54,26.48,2588955
+2022,United Kingdom,Age Group,55+,1.36,132540
+2022,United Kingdom,Gender,Female,7.91,773345
+2022,United Kingdom,Gender,Male,63.4,6199055
+2022,United Kingdom,Gender,Other,28.69,2805239
+2022,United Kingdom,Income Bracket,High,41.67,4074136
+2022,United Kingdom,Income Bracket,Low,19.67,1923450
+2022,United Kingdom,Income Bracket,Medium,38.66,3780053
+2021,United Kingdom,Age Group,18-24,1.99,181838
+2021,United Kingdom,Age Group,25-34,34.09,3107445
+2021,United Kingdom,Age Group,35-44,14.56,1327605
+2021,United Kingdom,Age Group,45-54,27.38,2495607
+2021,United Kingdom,Age Group,55+,21.98,2003671
+2021,United Kingdom,Gender,Female,71.75,6540988
+2021,United Kingdom,Gender,Male,25.64,2337457
+2021,United Kingdom,Gender,Other,2.61,237723
+2021,United Kingdom,Income Bracket,High,59.81,5452559
+2021,United Kingdom,Income Bracket,Low,33.15,3022351
+2021,United Kingdom,Income Bracket,Medium,7.03,641257
+2024,United States,Age Group,18-24,14.72,2762426
+2024,United States,Age Group,25-34,9.47,1776917
+2024,United States,Age Group,35-44,52.76,9904816
+2024,United States,Age Group,45-54,13.19,2476695
+2024,United States,Age Group,55+,9.86,1851249
+2024,United States,Gender,Female,5.95,1116119
+2024,United States,Gender,Male,30.63,5748979
+2024,United States,Gender,Other,63.43,11907006
+2024,United States,Income Bracket,High,25.11,4714399
+2024,United States,Income Bracket,Low,1.32,246878
+2024,United States,Income Bracket,Medium,73.57,13810826
+2023,United States,Age Group,18-24,4.98,792236
+2023,United States,Age Group,25-34,0.12,19802
+2023,United States,Age Group,35-44,37.98,6043152
+2023,United States,Age Group,45-54,27.58,4388154
+2023,United States,Age Group,55+,29.34,4669113
+2023,United States,Gender,Female,3.85,613282
+2023,United States,Gender,Male,73.91,11760450
+2023,United States,Gender,Other,22.24,3538724
+2023,United States,Income Bracket,High,31.62,5030909
+2023,United States,Income Bracket,Low,3.99,634596
+2023,United States,Income Bracket,Medium,64.4,10246952
+2022,United States,Age Group,18-24,15.81,2833106
+2022,United States,Age Group,25-34,2.58,463006
+2022,United States,Age Group,35-44,14.66,2626306
+2022,United States,Age Group,45-54,15.48,2773143
+2022,United States,Age Group,55+,51.47,9221447
+2022,United States,Gender,Female,56.89,10192208
+2022,United States,Gender,Male,26.46,4740041
+2022,United States,Gender,Other,16.66,2984758
+2022,United States,Income Bracket,High,50.96,9130512
+2022,United States,Income Bracket,Low,4.54,813046
+2022,United States,Income Bracket,Medium,44.5,7973449
+2021,United States,Age Group,18-24,19.27,2886601
+2021,United States,Age Group,25-34,34.47,5163972
+2021,United States,Age Group,35-44,15.92,2385326
+2021,United States,Age Group,45-54,17.3,2591564
+2021,United States,Age Group,55+,13.04,1954377
+2021,United States,Gender,Female,66.43,9953153
+2021,United States,Gender,Male,14.98,2244699
+2021,United States,Gender,Other,18.58,2783988
+2021,United States,Income Bracket,High,33.84,5069462
+2021,United States,Income Bracket,Low,48.19,7219391
+2021,United States,Income Bracket,Medium,17.98,2692987
