@@ -1,0 +1,9 @@
+year,region,currency,total_sales,profit_margin_pct,units_sold,avg_price_per_unit
+2024,United Kingdom,GBP,5605721.14,19.41,11211442,0.5
+2023,United Kingdom,GBP,5755193.34,15.18,11510387,0.5
+2022,United Kingdom,GBP,4888819.57,9.87,9777639,0.5
+2021,United Kingdom,GBP,4558083.61,18.39,9116167,0.5
+2024,United States,USD,14079077.43,16.5,18772103,0.75
+2023,United States,USD,11934343.06,19.64,15912457,0.75
+2022,United States,USD,13437755.45,10.55,17917007,0.75
+2021,United States,USD,11236379.92,10.2,14981840,0.75
