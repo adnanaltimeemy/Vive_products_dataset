@@ -1,0 +1,435 @@
+country,region,date,age_group,gender,ethnicity,units_sold,avg_price,sales,profit,profit_margin_pct
+UK,England,2025-03-31,45-54,Male,Other,232,2.39,554.87,38.84,7.0
+UK,England,2025-03-31,35-44,Prefer not to say,Asian: Pakistani,224,1.54,345.22,84.23,24.4
+UK,England,2025-03-31,45-54,Female,Asian: Bangladeshi,225,1.51,340.68,18.61,5.46
+UK,England,2025-03-31,35-44,Non-binary,Mixed,208,2.74,569.25,72.01,12.65
+UK,England,2025-03-31,45-54,Prefer not to say,Black: Caribbean,187,1.84,344.28,21.69,6.3
+UK,Scotland,2025-03-31,18-24,Prefer not to say,White: Irish,215,1.96,421.78,41.42,9.82
+UK,Scotland,2025-03-31,45-54,Non-binary,Black: African,209,2.12,443.8,68.35,15.4
+UK,Scotland,2025-03-31,25-34,Prefer not to say,Asian: Bangladeshi,218,3.35,731.02,142.88,19.55
+UK,Scotland,2025-03-31,65+,Non-binary,Black: Caribbean,231,2.67,617.58,150.1,24.31
+UK,Scotland,2025-03-31,45-54,Prefer not to say,Black: Caribbean,211,1.53,323.1,43.52,13.47
+UK,Scotland,2025-03-31,18-24,Prefer not to say,Black: African,229,3.04,696.74,45.16,6.48
+UK,Wales,2025-03-31,25-34,Male,Asian: Chinese,237,1.69,400.72,49.76,12.42
+UK,Wales,2025-03-31,65+,Prefer not to say,Asian: Pakistani,230,3.27,753.12,108.78,14.44
+UK,Wales,2025-03-31,55-64,Non-binary,White: Other White,231,3.04,702.69,104.53,14.88
+UK,Wales,2025-03-31,18-24,Non-binary,Mixed,212,3.32,702.81,70.18,9.99
+UK,Wales,2025-03-31,55-64,Non-binary,Other,224,3.26,730.45,127.73,17.49
+UK,Northern Ireland,2025-03-31,18-24,Male,Asian: Bangladeshi,218,2.33,508.6,115.28,22.67
+UK,Northern Ireland,2025-03-31,25-34,Non-binary,Black: Caribbean,212,1.96,414.64,56.15,13.54
+UK,Northern Ireland,2025-03-31,45-54,Male,Black: Caribbean,212,2.57,544.45,80.02,14.7
+UK,Northern Ireland,2025-03-31,18-24,Non-binary,Mixed,213,2.15,457.18,70.3,15.38
+UK,England,2025-04-30,45-54,Male,White: English/Welsh/Scottish/Northern Irish/British,209,2.89,604.56,116.35,19.25
+UK,England,2025-04-30,55-64,Male,Black: African,220,2.06,452.6,104.85,23.17
+UK,England,2025-04-30,35-44,Female,White: Irish,221,2.61,575.88,97.06,16.85
+UK,Scotland,2025-04-30,35-44,Prefer not to say,Other,209,2.44,510.09,125.83,24.67
+UK,Scotland,2025-04-30,65+,Non-binary,White: English/Welsh/Scottish/Northern Irish/British,203,2.89,587.0,130.12,22.17
+UK,Scotland,2025-04-30,45-54,Non-binary,Asian: Indian,208,1.85,384.54,72.36,18.82
+UK,Scotland,2025-04-30,25-34,Prefer not to say,White: English/Welsh/Scottish/Northern Irish/British,227,1.92,435.42,68.92,15.83
+UK,Scotland,2025-04-30,25-34,Non-binary,Asian: Chinese,227,2.61,592.56,92.4,15.59
+UK,Wales,2025-04-30,18-24,Prefer not to say,Asian: Pakistani,241,2.18,524.91,62.91,11.98
+UK,Wales,2025-04-30,35-44,Prefer not to say,Black: African,216,3.2,691.6,164.0,23.71
+UK,Wales,2025-04-30,45-54,Female,Black: African,224,1.7,381.46,69.69,18.27
+UK,Wales,2025-04-30,55-64,Female,White: Irish,219,3.49,764.07,65.09,8.52
+UK,Northern Ireland,2025-04-30,18-24,Female,Asian: Pakistani,205,2.99,612.61,118.96,19.42
+UK,Northern Ireland,2025-04-30,18-24,Prefer not to say,Other,214,1.99,425.43,104.06,24.46
+UK,Northern Ireland,2025-04-30,55-64,Non-binary,Asian: Bangladeshi,242,2.2,532.44,95.32,17.9
+UK,Northern Ireland,2025-04-30,18-24,Male,White: Other White,223,1.59,353.95,88.1,24.89
+UK,Northern Ireland,2025-04-30,65+,Male,Asian: Pakistani,240,3.41,817.47,94.95,11.62
+UK,Northern Ireland,2025-04-30,65+,Male,White: Other White,212,2.04,431.83,63.5,14.71
+UK,England,2025-05-31,18-24,Female,Asian: Bangladeshi,228,1.69,386.31,66.83,17.3
+UK,England,2025-05-31,65+,Non-binary,White: Irish,209,2.15,448.33,98.51,21.97
+UK,England,2025-05-31,18-24,Non-binary,Asian: Bangladeshi,214,3.12,667.41,141.51,21.2
+UK,England,2025-05-31,18-24,Prefer not to say,Mixed,206,2.29,472.47,28.42,6.02
+UK,Scotland,2025-05-31,45-54,Female,White: Irish,217,2.16,467.92,37.91,8.1
+UK,Scotland,2025-05-31,65+,Male,Asian: Bangladeshi,224,1.57,352.73,75.67,21.45
+UK,Scotland,2025-05-31,65+,Non-binary,Asian: Pakistani,221,1.93,426.89,74.53,17.46
+UK,Scotland,2025-05-31,45-54,Female,Asian: Indian,216,1.78,383.77,29.38,7.65
+UK,Scotland,2025-05-31,25-34,Prefer not to say,Mixed,212,2.04,432.83,59.64,13.78
+UK,Wales,2025-05-31,25-34,Male,Mixed,228,1.85,421.02,34.22,8.13
+UK,Wales,2025-05-31,25-34,Prefer not to say,Asian: Bangladeshi,229,2.06,471.71,113.67,24.1
+UK,Wales,2025-05-31,55-64,Female,Asian: Chinese,187,1.82,339.83,25.16,7.4
+UK,Wales,2025-05-31,55-64,Female,Asian: Pakistani,198,3.46,684.89,58.26,8.51
+UK,Wales,2025-05-31,25-34,Female,Asian: Pakistani,219,2.37,518.53,67.25,12.97
+UK,Northern Ireland,2025-05-31,65+,Male,Asian: Indian,186,2.75,511.82,77.09,15.06
+UK,Northern Ireland,2025-05-31,18-24,Prefer not to say,Asian: Pakistani,228,3.39,772.41,184.49,23.89
+UK,Northern Ireland,2025-05-31,45-54,Prefer not to say,Other,234,2.65,619.34,46.88,7.57
+UK,Northern Ireland,2025-05-31,55-64,Non-binary,Other,249,3.42,852.17,196.91,23.11
+UK,England,2025-06-30,55-64,Male,White: Irish,213,2.27,483.68,90.12,18.63
+UK,England,2025-06-30,65+,Female,White: Other White,211,2.89,610.52,107.32,17.58
+UK,England,2025-06-30,55-64,Prefer not to say,Asian: Indian,217,2.6,563.32,75.88,13.47
+UK,England,2025-06-30,35-44,Male,White: Other White,216,3.05,659.41,77.92,11.82
+UK,England,2025-06-30,65+,Prefer not to say,Asian: Pakistani,208,2.98,619.8,60.52,9.76
+UK,England,2025-06-30,65+,Male,White: English/Welsh/Scottish/Northern Irish/British,220,2.14,470.82,107.87,22.91
+UK,Scotland,2025-06-30,45-54,Prefer not to say,Black: Caribbean,237,3.41,809.02,149.96,18.54
+UK,Scotland,2025-06-30,45-54,Non-binary,Mixed,225,2.09,469.44,54.33,11.57
+UK,Scotland,2025-06-30,35-44,Male,Asian: Indian,250,1.73,431.73,101.97,23.62
+UK,Wales,2025-06-30,65+,Non-binary,Mixed,218,2.2,480.0,35.24,7.34
+UK,Wales,2025-06-30,45-54,Male,Mixed,236,1.95,459.06,59.37,12.93
+UK,Wales,2025-06-30,35-44,Female,White: Irish,196,3.47,680.76,85.0,12.49
+UK,Wales,2025-06-30,18-24,Female,Asian: Indian,224,2.92,653.27,95.59,14.63
+UK,Northern Ireland,2025-06-30,65+,Non-binary,Other,209,2.37,495.1,49.87,10.07
+UK,Northern Ireland,2025-06-30,25-34,Prefer not to say,Mixed,230,3.15,723.48,143.86,19.88
+UK,Northern Ireland,2025-06-30,35-44,Male,Black: Caribbean,215,3.24,696.0,65.92,9.47
+UK,Northern Ireland,2025-06-30,65+,Female,Asian: Pakistani,244,2.89,705.36,45.91,6.51
+UK,Northern Ireland,2025-06-30,18-24,Male,White: English/Welsh/Scottish/Northern Irish/British,225,3.3,743.02,43.9,5.91
+UK,Northern Ireland,2025-06-30,45-54,Female,Black: African,216,2.17,469.01,39.37,8.39
+UK,England,2025-07-31,25-34,Prefer not to say,Mixed,208,2.22,461.9,47.11,10.2
+UK,England,2025-07-31,35-44,Female,White: English/Welsh/Scottish/Northern Irish/British,211,2.71,570.87,59.48,10.42
+UK,England,2025-07-31,55-64,Female,White: Other White,230,2.34,537.39,127.12,23.65
+UK,England,2025-07-31,25-34,Non-binary,Asian: Pakistani,203,2.26,459.14,112.02,24.4
+UK,England,2025-07-31,35-44,Male,White: English/Welsh/Scottish/Northern Irish/British,219,2.05,448.25,27.47,6.13
+UK,England,2025-07-31,65+,Prefer not to say,White: English/Welsh/Scottish/Northern Irish/British,221,3.33,735.12,122.79,16.7
+UK,Scotland,2025-07-31,55-64,Female,Mixed,215,1.91,410.67,41.19,10.03
+UK,Scotland,2025-07-31,55-64,Male,Asian: Indian,208,2.74,569.14,69.23,12.16
+UK,Scotland,2025-07-31,25-34,Female,White: Irish,219,2.12,463.31,98.81,21.33
+UK,Wales,2025-07-31,55-64,Female,Other,216,1.56,336.43,67.63,20.1
+UK,Wales,2025-07-31,55-64,Female,White: Irish,224,2.61,584.56,39.87,6.82
+UK,Wales,2025-07-31,25-34,Prefer not to say,Black: Caribbean,220,2.29,504.48,87.99,17.44
+UK,Wales,2025-07-31,35-44,Male,Asian: Pakistani,233,3.18,741.91,151.19,20.38
+UK,Wales,2025-07-31,45-54,Prefer not to say,Asian: Pakistani,213,1.98,421.8,27.49,6.52
+UK,Wales,2025-07-31,18-24,Non-binary,Asian: Chinese,223,2.9,645.66,55.54,8.6
+UK,Northern Ireland,2025-07-31,18-24,Non-binary,White: Other White,221,2.7,597.56,56.63,9.48
+UK,Northern Ireland,2025-07-31,55-64,Male,White: Irish,210,1.68,352.26,26.11,7.41
+UK,Northern Ireland,2025-07-31,18-24,Prefer not to say,Mixed,241,2.16,520.61,59.51,11.43
+UK,Northern Ireland,2025-07-31,25-34,Male,Black: Caribbean,228,1.81,413.58,51.89,12.55
+UK,Northern Ireland,2025-07-31,18-24,Female,Asian: Indian,234,1.87,437.36,40.18,9.19
+UK,Northern Ireland,2025-07-31,65+,Female,Mixed,231,2.94,679.38,42.44,6.25
+UK,England,2025-08-31,35-44,Non-binary,White: Other White,241,2.56,617.98,44.14,7.14
+UK,England,2025-08-31,25-34,Female,White: Other White,216,2.97,642.56,55.55,8.65
+UK,England,2025-08-31,18-24,Male,Asian: Chinese,197,1.97,387.39,45.94,11.86
+UK,England,2025-08-31,18-24,Prefer not to say,Mixed,233,1.67,390.0,61.4,15.74
+UK,England,2025-08-31,25-34,Non-binary,Black: African,223,2.26,503.43,59.15,11.75
+UK,Scotland,2025-08-31,25-34,Prefer not to say,White: Irish,209,2.16,451.59,106.91,23.67
+UK,Scotland,2025-08-31,55-64,Female,Asian: Pakistani,203,1.82,369.74,32.28,8.73
+UK,Scotland,2025-08-31,65+,Female,Black: African,241,2.55,614.31,81.14,13.21
+UK,Scotland,2025-08-31,45-54,Prefer not to say,Asian: Bangladeshi,216,3.23,697.9,148.94,21.34
+UK,Scotland,2025-08-31,18-24,Female,Black: African,229,2.94,672.55,105.6,15.7
+UK,Scotland,2025-08-31,25-34,Non-binary,Asian: Pakistani,206,2.35,484.28,73.38,15.15
+UK,Wales,2025-08-31,45-54,Non-binary,White: English/Welsh/Scottish/Northern Irish/British,224,2.66,596.39,48.23,8.09
+UK,Wales,2025-08-31,45-54,Male,Other,224,2.41,539.51,86.17,15.97
+UK,Wales,2025-08-31,25-34,Prefer not to say,White: Irish,212,2.01,425.97,79.36,18.63
+UK,Northern Ireland,2025-08-31,18-24,Non-binary,Black: African,224,1.71,383.8,84.49,22.01
+UK,Northern Ireland,2025-08-31,45-54,Prefer not to say,White: Irish,201,3.38,678.71,58.54,8.62
+UK,Northern Ireland,2025-08-31,35-44,Male,Black: African,229,3.06,701.43,151.22,21.56
+UK,England,2025-09-30,65+,Prefer not to say,White: Other White,204,2.83,577.4,89.27,15.46
+UK,England,2025-09-30,45-54,Male,Mixed,216,2.38,513.71,64.41,12.54
+UK,England,2025-09-30,35-44,Male,Asian: Bangladeshi,222,2.65,589.4,71.36,12.11
+UK,Scotland,2025-09-30,25-34,Female,Asian: Pakistani,242,1.73,419.58,99.85,23.8
+UK,Scotland,2025-09-30,35-44,Prefer not to say,Mixed,202,2.74,553.51,86.73,15.67
+UK,Scotland,2025-09-30,35-44,Prefer not to say,Asian: Bangladeshi,231,3.06,706.2,55.53,7.86
+UK,Scotland,2025-09-30,45-54,Female,White: Irish,231,2.18,504.54,108.1,21.43
+UK,Scotland,2025-09-30,45-54,Male,Black: African,224,2.58,577.86,85.1,14.73
+UK,Wales,2025-09-30,45-54,Male,White: Irish,223,2.7,601.67,129.57,21.54
+UK,Wales,2025-09-30,65+,Female,Black: African,223,2.42,540.55,129.44,23.95
+UK,Wales,2025-09-30,45-54,Female,Black: African,220,1.54,337.97,75.85,22.44
+UK,Wales,2025-09-30,45-54,Prefer not to say,Asian: Indian,244,1.55,377.24,68.01,18.03
+UK,Wales,2025-09-30,18-24,Prefer not to say,Mixed,193,1.71,329.74,71.91,21.81
+UK,Wales,2025-09-30,35-44,Non-binary,White: English/Welsh/Scottish/Northern Irish/British,236,3.34,788.64,176.64,22.4
+UK,Northern Ireland,2025-09-30,35-44,Prefer not to say,Asian: Pakistani,215,1.91,410.9,85.29,20.76
+UK,Northern Ireland,2025-09-30,25-34,Male,White: Other White,216,3.34,721.38,86.04,11.93
+UK,Northern Ireland,2025-09-30,25-34,Non-binary,White: Irish,244,1.57,382.03,88.84,23.25
+UK,Northern Ireland,2025-09-30,65+,Prefer not to say,Black: Caribbean,220,3.33,732.53,89.72,12.25
+UK,Northern Ireland,2025-09-30,35-44,Female,Mixed,203,1.67,339.15,84.58,24.94
+UK,England,2025-10-31,18-24,Prefer not to say,Asian: Chinese,217,2.2,477.13,68.54,14.36
+UK,England,2025-10-31,18-24,Male,Black: African,224,2.93,655.9,102.01,15.55
+UK,England,2025-10-31,65+,Prefer not to say,White: English/Welsh/Scottish/Northern Irish/British,216,1.81,391.06,33.78,8.64
+UK,Scotland,2025-10-31,35-44,Prefer not to say,Mixed,210,2.32,486.67,26.8,5.51
+UK,Scotland,2025-10-31,45-54,Prefer not to say,White: Irish,238,2.6,619.62,62.44,10.08
+UK,Scotland,2025-10-31,35-44,Non-binary,Black: African,199,1.86,369.56,66.72,18.05
+UK,Wales,2025-10-31,25-34,Non-binary,Black: African,229,3.16,723.74,93.68,12.94
+UK,Wales,2025-10-31,55-64,Female,Asian: Pakistani,216,1.67,361.55,63.87,17.66
+UK,Wales,2025-10-31,18-24,Non-binary,Asian: Pakistani,223,3.29,732.63,156.41,21.35
+UK,Wales,2025-10-31,45-54,Non-binary,Mixed,235,1.57,368.59,79.66,21.61
+UK,Wales,2025-10-31,55-64,Female,Black: Caribbean,217,3.4,737.13,149.43,20.27
+UK,Northern Ireland,2025-10-31,18-24,Female,Black: African,205,2.52,517.61,102.66,19.83
+UK,Northern Ireland,2025-10-31,25-34,Male,Black: Caribbean,209,3.17,662.5,163.56,24.69
+UK,Northern Ireland,2025-10-31,25-34,Male,White: Irish,210,3.33,699.01,51.41,7.36
+UK,Northern Ireland,2025-10-31,45-54,Male,Asian: Bangladeshi,193,2.49,481.52,93.43,19.4
+UK,Northern Ireland,2025-10-31,55-64,Female,Asian: Bangladeshi,202,3.25,656.05,111.19,16.95
+UK,Northern Ireland,2025-10-31,45-54,Male,Black: Caribbean,220,3.18,698.77,91.45,13.09
+UK,England,2025-11-30,25-34,Female,White: Irish,204,1.67,339.78,57.98,17.06
+UK,England,2025-11-30,25-34,Male,Asian: Pakistani,236,3.33,786.12,152.75,19.43
+UK,England,2025-11-30,35-44,Female,White: Irish,216,1.77,382.32,56.11,14.68
+UK,England,2025-11-30,25-34,Prefer not to say,Asian: Indian,204,3.19,651.33,157.0,24.1
+UK,Scotland,2025-11-30,25-34,Male,Mixed,219,2.2,482.47,63.96,13.26
+UK,Scotland,2025-11-30,55-64,Non-binary,Black: African,217,3.14,680.99,142.93,20.99
+UK,Scotland,2025-11-30,45-54,Non-binary,Asian: Bangladeshi,224,1.68,377.03,88.02,23.35
+UK,Scotland,2025-11-30,55-64,Male,Mixed,228,1.67,381.54,92.19,24.16
+UK,Scotland,2025-11-30,35-44,Prefer not to say,Asian: Pakistani,231,2.77,640.9,157.74,24.61
+UK,Wales,2025-11-30,18-24,Prefer not to say,Other,245,2.64,645.79,150.53,23.31
+UK,Wales,2025-11-30,65+,Non-binary,Asian: Pakistani,230,1.73,398.03,53.48,13.44
+UK,Wales,2025-11-30,55-64,Female,Asian: Indian,236,3.16,745.25,42.78,5.74
+UK,Wales,2025-11-30,35-44,Prefer not to say,White: Irish,240,2.38,571.7,74.83,13.09
+UK,Northern Ireland,2025-11-30,18-24,Prefer not to say,Asian: Bangladeshi,212,3.27,693.65,120.12,17.32
+UK,Northern Ireland,2025-11-30,65+,Female,Asian: Chinese,215,1.64,352.61,18.3,5.19
+UK,Northern Ireland,2025-11-30,55-64,Female,White: English/Welsh/Scottish/Northern Irish/British,216,2.76,595.08,133.74,22.47
+UK,Northern Ireland,2025-11-30,18-24,Female,Black: Caribbean,213,2.96,631.45,32.0,5.07
+UK,Northern Ireland,2025-11-30,55-64,Female,Black: African,211,1.97,415.08,24.25,5.84
+UK,England,2025-12-31,55-64,Female,Black: Caribbean,200,1.75,349.78,84.39,24.13
+UK,England,2025-12-31,55-64,Male,Asian: Pakistani,197,3.26,641.87,153.37,23.89
+UK,England,2025-12-31,35-44,Female,White: Irish,226,2.53,570.74,54.87,9.61
+UK,Scotland,2025-12-31,18-24,Female,Black: Caribbean,206,2.2,453.25,27.91,6.16
+UK,Scotland,2025-12-31,18-24,Male,White: Other White,224,2.02,452.58,69.27,15.3
+UK,Scotland,2025-12-31,25-34,Female,White: English/Welsh/Scottish/Northern Irish/British,203,1.95,395.62,37.49,9.48
+UK,Scotland,2025-12-31,18-24,Male,Asian: Indian,223,3.25,725.85,74.85,10.31
+UK,Wales,2025-12-31,55-64,Male,White: Other White,234,2.6,608.8,41.03,6.74
+UK,Wales,2025-12-31,45-54,Non-binary,Asian: Bangladeshi,210,2.49,523.27,34.65,6.62
+UK,Wales,2025-12-31,45-54,Prefer not to say,Asian: Pakistani,240,3.31,795.13,130.61,16.43
+UK,Wales,2025-12-31,25-34,Prefer not to say,Other,238,2.54,605.12,135.32,22.36
+UK,Wales,2025-12-31,45-54,Male,Other,238,3.17,755.42,143.15,18.95
+UK,Wales,2025-12-31,25-34,Prefer not to say,Other,231,3.26,753.46,169.05,22.44
+UK,Northern Ireland,2025-12-31,25-34,Female,Other,208,1.5,312.47,50.38,16.12
+UK,Northern Ireland,2025-12-31,55-64,Male,Asian: Chinese,206,2.15,443.49,71.83,16.2
+UK,Northern Ireland,2025-12-31,25-34,Prefer not to say,Black: African,235,2.07,485.67,26.07,5.37
+UK,Northern Ireland,2025-12-31,18-24,Prefer not to say,White: Irish,213,3.36,716.54,50.52,7.05
+UK,Northern Ireland,2025-12-31,45-54,Prefer not to say,Asian: Indian,193,2.92,562.85,35.72,6.35
+UK,England,2026-01-31,65+,Male,Asian: Bangladeshi,225,3.24,729.69,178.55,24.47
+UK,England,2026-01-31,55-64,Prefer not to say,Asian: Indian,226,2.27,512.39,32.34,6.31
+UK,England,2026-01-31,18-24,Female,White: Other White,209,1.82,379.94,54.6,14.37
+UK,England,2026-01-31,45-54,Male,White: Other White,218,3.09,673.54,127.12,18.87
+UK,Scotland,2026-01-31,25-34,Non-binary,Asian: Indian,226,3.4,768.79,61.67,8.02
+UK,Scotland,2026-01-31,45-54,Male,Asian: Pakistani,243,3.43,833.26,168.33,20.2
+UK,Scotland,2026-01-31,55-64,Non-binary,Other,216,1.96,423.34,39.21,9.26
+UK,Scotland,2026-01-31,18-24,Male,Black: African,214,2.45,523.53,127.55,24.36
+UK,Scotland,2026-01-31,65+,Male,White: English/Welsh/Scottish/Northern Irish/British,197,2.41,474.26,74.02,15.61
+UK,Scotland,2026-01-31,35-44,Male,Asian: Pakistani,205,1.5,308.01,52.26,16.97
+UK,Wales,2026-01-31,45-54,Prefer not to say,Asian: Indian,222,1.82,404.41,72.92,18.03
+UK,Wales,2026-01-31,55-64,Male,White: Irish,233,2.41,561.63,29.39,5.23
+UK,Wales,2026-01-31,25-34,Female,White: Irish,219,2.08,456.25,86.23,18.9
+UK,Wales,2026-01-31,18-24,Prefer not to say,Asian: Bangladeshi,242,3.0,725.59,57.46,7.92
+UK,Northern Ireland,2026-01-31,18-24,Female,Asian: Bangladeshi,225,2.62,589.34,30.62,5.2
+UK,Northern Ireland,2026-01-31,45-54,Male,White: Irish,221,1.67,367.97,79.08,21.49
+UK,Northern Ireland,2026-01-31,25-34,Female,Asian: Chinese,202,2.88,581.54,122.19,21.01
+UK,Northern Ireland,2026-01-31,25-34,Female,Asian: Chinese,201,2.69,540.6,93.7,17.33
+UK,Northern Ireland,2026-01-31,18-24,Female,Black: African,251,3.07,769.78,132.75,17.25
+UK,Northern Ireland,2026-01-31,35-44,Prefer not to say,Asian: Indian,224,2.46,551.44,32.07,5.82
+UK,England,2026-02-28,25-34,Female,Other,230,2.8,644.14,93.95,14.59
+UK,England,2026-02-28,35-44,Female,White: Other White,205,2.82,577.57,86.43,14.96
+UK,England,2026-02-28,25-34,Female,White: Irish,226,2.58,584.2,86.84,14.87
+UK,England,2026-02-28,45-54,Female,White: Other White,228,1.56,355.98,36.14,10.15
+UK,England,2026-02-28,45-54,Male,Asian: Pakistani,230,2.35,540.73,64.45,11.92
+UK,England,2026-02-28,45-54,Female,Asian: Indian,220,2.53,556.16,93.22,16.76
+UK,Scotland,2026-02-28,55-64,Female,Asian: Indian,217,2.68,582.58,135.43,23.25
+UK,Scotland,2026-02-28,45-54,Non-binary,White: Irish,225,1.76,396.71,76.63,19.32
+UK,Scotland,2026-02-28,65+,Non-binary,Mixed,205,2.48,509.33,50.65,9.94
+UK,Scotland,2026-02-28,45-54,Male,Black: African,223,1.69,376.99,68.02,18.04
+UK,Wales,2026-02-28,18-24,Prefer not to say,White: Irish,237,2.68,634.41,107.69,16.97
+UK,Wales,2026-02-28,45-54,Male,Asian: Chinese,218,1.65,359.04,30.14,8.4
+UK,Wales,2026-02-28,25-34,Male,Mixed,227,2.4,544.54,91.25,16.76
+UK,Northern Ireland,2026-02-28,18-24,Male,Asian: Bangladeshi,204,2.97,606.45,110.84,18.28
+UK,Northern Ireland,2026-02-28,55-64,Male,White: English/Welsh/Scottish/Northern Irish/British,229,3.23,739.31,119.49,16.16
+UK,Northern Ireland,2026-02-28,35-44,Male,Asian: Indian,210,2.56,538.09,127.7,23.73
+UK,Northern Ireland,2026-02-28,55-64,Male,Asian: Chinese,208,1.68,348.84,24.65,7.07
+UK,Northern Ireland,2026-02-28,35-44,Female,Mixed,216,2.87,620.34,33.17,5.35
+UK,Northern Ireland,2026-02-28,18-24,Female,Black: Caribbean,223,2.54,567.19,67.23,11.85
+US,California,2025-03-31,45-54,Male,Two or more races,230,1.81,416.77,33.84,8.12
+US,California,2025-03-31,35-44,Non-binary,Other,213,2.8,596.78,36.57,6.13
+US,California,2025-03-31,45-54,Female,Native Hawaiian or Other Pacific Islander,225,1.51,340.68,18.61,5.46
+US,California,2025-03-31,35-44,Non-binary,Two or more races,202,2.23,451.01,63.69,14.12
+US,California,2025-03-31,65+,Non-binary,Hispanic or Latino,221,1.59,352.03,60.38,17.15
+US,Texas,2025-03-31,18-24,Non-binary,Black or African American,234,1.7,396.71,74.12,18.68
+US,Texas,2025-03-31,45-54,Non-binary,Hispanic or Latino,220,3.32,730.1,74.29,10.18
+US,Texas,2025-03-31,45-54,Female,Native Hawaiian or Other Pacific Islander,221,1.87,413.21,100.79,24.39
+US,New York,2025-03-31,45-54,Female,Black or African American,241,3.34,805.84,54.55,6.77
+US,New York,2025-03-31,45-54,Male,Native Hawaiian or Other Pacific Islander,213,2.04,435.09,93.87,21.57
+US,New York,2025-03-31,25-34,Male,Hispanic or Latino,224,2.09,468.73,38.93,8.31
+US,New York,2025-03-31,18-24,Non-binary,White,232,1.51,350.56,74.7,21.31
+US,Florida,2025-03-31,35-44,Non-binary,White,224,2.8,627.68,146.24,23.3
+US,Florida,2025-03-31,18-24,Prefer not to say,Hispanic or Latino,213,2.12,451.98,51.99,11.5
+US,Florida,2025-03-31,35-44,Prefer not to say,Other,210,2.27,475.83,116.27,24.43
+US,California,2025-04-30,18-24,Male,Black or African American,208,1.58,328.82,63.18,19.21
+US,California,2025-04-30,25-34,Female,Hispanic or Latino,199,2.77,551.79,62.28,11.29
+US,California,2025-04-30,45-54,Female,American Indian or Alaska Native,209,3.01,629.32,60.26,9.58
+US,California,2025-04-30,35-44,Non-binary,Native Hawaiian or Other Pacific Islander,239,2.09,499.81,35.54,7.11
+US,California,2025-04-30,45-54,Prefer not to say,Hispanic or Latino,206,2.58,531.21,112.34,21.15
+US,Texas,2025-04-30,18-24,Non-binary,Native Hawaiian or Other Pacific Islander,200,2.35,470.84,100.57,21.36
+US,Texas,2025-04-30,18-24,Non-binary,Two or more races,204,2.47,503.81,94.96,18.85
+US,Texas,2025-04-30,25-34,Prefer not to say,Other,249,2.54,631.86,120.43,19.06
+US,Texas,2025-04-30,18-24,Female,White,209,2.89,604.56,116.35,19.25
+US,Texas,2025-04-30,55-64,Male,Other,220,2.06,452.6,104.85,23.17
+US,Texas,2025-04-30,35-44,Female,Black or African American,221,2.61,575.88,97.06,16.85
+US,New York,2025-04-30,35-44,Prefer not to say,Asian,209,2.44,510.09,125.83,24.67
+US,New York,2025-04-30,65+,Non-binary,Two or more races,197,2.14,421.89,36.83,8.73
+US,New York,2025-04-30,55-64,Non-binary,Hispanic or Latino,213,2.92,622.45,131.9,21.19
+US,New York,2025-04-30,45-54,Prefer not to say,Two or more races,205,2.27,466.06,110.62,23.73
+US,New York,2025-04-30,18-24,Non-binary,Hispanic or Latino,230,2.58,594.07,112.37,18.92
+US,Florida,2025-04-30,45-54,Prefer not to say,Black or African American,240,2.06,493.86,93.87,19.01
+US,Florida,2025-04-30,35-44,Prefer not to say,Other,216,3.2,691.6,164.0,23.71
+US,Florida,2025-04-30,45-54,Female,Other,224,1.7,381.46,69.69,18.27
+US,Florida,2025-04-30,55-64,Female,Other,212,2.4,508.13,126.47,24.89
+US,Florida,2025-04-30,45-54,Male,Hispanic or Latino,208,2.99,622.54,112.01,17.99
+US,California,2025-05-31,35-44,Male,Other,223,2.24,498.5,51.37,10.3
+US,California,2025-05-31,65+,Female,Native Hawaiian or Other Pacific Islander,242,2.2,532.44,95.32,17.9
+US,California,2025-05-31,18-24,Male,Hispanic or Latino,229,1.55,354.64,63.51,17.91
+US,California,2025-05-31,18-24,Prefer not to say,Hispanic or Latino,219,3.27,715.47,142.77,19.95
+US,California,2025-05-31,55-64,Prefer not to say,American Indian or Alaska Native,217,3.43,743.71,164.06,22.06
+US,Texas,2025-05-31,55-64,Male,Other,237,1.84,435.84,70.33,16.14
+US,Texas,2025-05-31,65+,Female,Asian,223,2.73,608.79,150.99,24.8
+US,Texas,2025-05-31,25-34,Non-binary,Asian,211,3.2,674.64,52.17,7.73
+US,Texas,2025-05-31,65+,Prefer not to say,Two or more races,211,3.12,658.37,147.09,22.34
+US,Texas,2025-05-31,55-64,Prefer not to say,Black or African American,206,2.29,472.47,28.42,6.02
+US,New York,2025-05-31,45-54,Female,Black or African American,217,2.16,467.92,37.91,8.1
+US,New York,2025-05-31,65+,Male,Native Hawaiian or Other Pacific Islander,224,1.57,352.73,75.67,21.45
+US,New York,2025-05-31,65+,Non-binary,Hispanic or Latino,213,2.04,435.18,105.77,24.31
+US,New York,2025-05-31,45-54,Female,American Indian or Alaska Native,206,2.9,597.2,46.38,7.77
+US,New York,2025-05-31,55-64,Female,Hispanic or Latino,229,2.3,526.16,71.93,13.67
+US,Florida,2025-05-31,25-34,Male,Black or African American,228,1.85,421.02,34.22,8.13
+US,Florida,2025-05-31,25-34,Prefer not to say,Native Hawaiian or Other Pacific Islander,198,3.37,667.11,118.51,17.77
+US,Florida,2025-05-31,55-64,Non-binary,Other,222,2.34,519.3,51.69,9.95
+US,Florida,2025-05-31,35-44,Male,Native Hawaiian or Other Pacific Islander,186,3.21,597.23,113.91,19.07
+US,California,2025-06-30,25-34,Female,Other,234,2.43,568.47,102.3,18.0
+US,California,2025-06-30,25-34,Female,Native Hawaiian or Other Pacific Islander,226,2.25,508.32,89.04,17.52
+US,California,2025-06-30,25-34,Prefer not to say,White,222,2.73,606.44,144.8,23.88
+US,California,2025-06-30,25-34,Male,Hispanic or Latino,223,2.65,591.16,75.45,12.76
+US,California,2025-06-30,45-54,Male,White,234,2.75,643.94,137.86,21.41
+US,California,2025-06-30,25-34,Non-binary,Hispanic or Latino,210,2.25,473.45,27.36,5.78
+US,Texas,2025-06-30,35-44,Non-binary,White,226,2.86,647.09,76.44,11.81
+US,Texas,2025-06-30,35-44,Male,Two or more races,200,2.76,551.58,124.38,22.55
+US,Texas,2025-06-30,45-54,Male,American Indian or Alaska Native,217,2.65,575.45,112.98,19.63
+US,Texas,2025-06-30,45-54,Female,White,232,3.36,779.87,172.88,22.17
+US,New York,2025-06-30,55-64,Non-binary,White,208,2.57,534.28,79.77,14.93
+US,New York,2025-06-30,18-24,Female,American Indian or Alaska Native,241,1.52,366.72,84.74,23.11
+US,New York,2025-06-30,45-54,Male,Two or more races,219,1.67,364.98,24.94,6.83
+US,Florida,2025-06-30,18-24,Prefer not to say,Asian,232,3.36,779.95,190.97,24.48
+US,Florida,2025-06-30,65+,Non-binary,Black or African American,218,2.2,480.0,35.24,7.34
+US,Florida,2025-06-30,45-54,Male,Black or African American,236,1.95,459.06,59.37,12.93
+US,Florida,2025-06-30,35-44,Female,Black or African American,196,3.47,680.76,85.0,12.49
+US,Florida,2025-06-30,18-24,Female,Hispanic or Latino,224,2.92,653.27,95.59,14.63
+US,Florida,2025-06-30,45-54,Female,Two or more races,217,1.72,373.76,55.51,14.85
+US,California,2025-07-31,25-34,Prefer not to say,Native Hawaiian or Other Pacific Islander,190,1.74,329.66,59.29,17.98
+US,California,2025-07-31,18-24,Non-binary,American Indian or Alaska Native,208,2.46,510.73,34.0,6.66
+US,California,2025-07-31,18-24,Female,American Indian or Alaska Native,258,3.44,887.46,52.03,5.86
+US,Texas,2025-07-31,65+,Male,Asian,244,2.89,705.36,45.91,6.51
+US,Texas,2025-07-31,18-24,Male,Native Hawaiian or Other Pacific Islander,228,2.97,678.12,158.04,23.31
+US,Texas,2025-07-31,25-34,Prefer not to say,Other,240,2.74,657.66,69.37,10.55
+US,New York,2025-07-31,45-54,Female,Other,214,1.66,354.27,86.75,24.49
+US,New York,2025-07-31,35-44,Female,Two or more races,221,3.13,691.2,129.22,18.69
+US,New York,2025-07-31,55-64,Male,Native Hawaiian or Other Pacific Islander,217,3.34,724.42,48.21,6.65
+US,New York,2025-07-31,65+,Female,Asian,186,2.25,419.04,88.88,21.21
+US,New York,2025-07-31,18-24,Non-binary,American Indian or Alaska Native,231,3.16,729.57,119.52,16.38
+US,New York,2025-07-31,18-24,Female,White,216,1.61,348.35,77.66,22.29
+US,Florida,2025-07-31,55-64,Non-binary,American Indian or Alaska Native,237,2.4,569.06,43.15,7.58
+US,Florida,2025-07-31,35-44,Male,American Indian or Alaska Native,207,3.01,623.9,37.05,5.94
+US,Florida,2025-07-31,25-34,Female,Black or African American,219,2.12,463.31,98.81,21.33
+US,California,2025-08-31,55-64,Female,Native Hawaiian or Other Pacific Islander,233,2.46,573.2,76.87,13.41
+US,California,2025-08-31,55-64,Male,Native Hawaiian or Other Pacific Islander,229,1.77,405.96,21.48,5.29
+US,California,2025-08-31,65+,Female,Black or African American,226,1.68,380.13,74.23,19.53
+US,California,2025-08-31,18-24,Female,White,233,2.74,639.39,142.25,22.25
+US,California,2025-08-31,55-64,Male,Hispanic or Latino,218,3.04,662.25,41.89,6.32
+US,California,2025-08-31,55-64,Female,Native Hawaiian or Other Pacific Islander,220,2.77,608.7,59.67,9.8
+US,Texas,2025-08-31,18-24,Non-binary,Two or more races,223,2.9,645.66,55.54,8.6
+US,Texas,2025-08-31,45-54,Prefer not to say,White,241,2.84,683.26,57.71,8.45
+US,Texas,2025-08-31,25-34,Non-binary,Asian,235,2.2,515.88,29.08,5.64
+US,Texas,2025-08-31,65+,Male,American Indian or Alaska Native,218,2.23,485.82,73.21,15.07
+US,Texas,2025-08-31,55-64,Non-binary,White,197,2.88,566.49,86.29,15.23
+US,New York,2025-08-31,55-64,Male,Black or African American,238,2.69,641.3,158.56,24.73
+US,New York,2025-08-31,65+,Female,Black or African American,231,2.94,679.38,42.44,6.25
+US,New York,2025-08-31,35-44,Prefer not to say,Asian,229,2.52,577.85,90.39,15.64
+US,New York,2025-08-31,55-64,Female,Black or African American,214,1.71,365.88,72.26,19.75
+US,New York,2025-08-31,45-54,Female,Two or more races,212,2.15,456.86,33.79,7.4
+US,Florida,2025-08-31,55-64,Prefer not to say,White,227,2.5,566.79,38.19,6.74
+US,Florida,2025-08-31,65+,Female,Two or more races,231,1.76,405.44,43.28,10.68
+US,Florida,2025-08-31,65+,Prefer not to say,Black or African American,224,2.5,559.21,64.91,11.61
+US,California,2025-09-30,18-24,Male,Native Hawaiian or Other Pacific Islander,208,2.48,514.93,113.37,22.02
+US,California,2025-09-30,65+,Female,Native Hawaiian or Other Pacific Islander,205,1.66,340.4,52.73,15.49
+US,California,2025-09-30,55-64,Prefer not to say,Other,200,3.44,687.79,153.45,22.31
+US,Texas,2025-09-30,65+,Male,Native Hawaiian or Other Pacific Islander,205,3.36,688.54,111.1,16.14
+US,Texas,2025-09-30,25-34,Non-binary,American Indian or Alaska Native,232,2.15,498.19,67.3,13.51
+US,Texas,2025-09-30,18-24,Prefer not to say,White,221,3.04,670.86,45.25,6.75
+US,Texas,2025-09-30,65+,Non-binary,Two or more races,219,1.6,351.2,41.2,11.73
+US,New York,2025-09-30,55-64,Non-binary,Black or African American,234,2.86,669.94,135.36,20.2
+US,New York,2025-09-30,35-44,Non-binary,Other,224,1.71,383.8,84.49,22.01
+US,New York,2025-09-30,45-54,Prefer not to say,Black or African American,201,3.38,678.71,58.54,8.62
+US,New York,2025-09-30,35-44,Male,Other,229,3.06,701.43,151.22,21.56
+US,Florida,2025-09-30,65+,Prefer not to say,Native Hawaiian or Other Pacific Islander,235,1.97,463.28,81.88,17.68
+US,Florida,2025-09-30,65+,Prefer not to say,White,239,3.13,748.83,103.21,13.78
+US,Florida,2025-09-30,65+,Prefer not to say,Asian,225,2.38,534.94,88.53,16.55
+US,California,2025-10-31,18-24,Non-binary,Two or more races,221,1.96,432.73,68.62,15.86
+US,California,2025-10-31,65+,Female,Asian,225,1.78,400.17,83.56,20.88
+US,California,2025-10-31,55-64,Male,Hispanic or Latino,230,3.5,803.94,161.17,20.05
+US,Texas,2025-10-31,55-64,Non-binary,Two or more races,203,2.93,594.41,88.45,14.88
+US,Texas,2025-10-31,25-34,Male,Native Hawaiian or Other Pacific Islander,235,3.19,750.33,56.65,7.55
+US,Texas,2025-10-31,55-64,Prefer not to say,American Indian or Alaska Native,219,3.04,666.58,34.96,5.24
+US,New York,2025-10-31,35-44,Prefer not to say,Hispanic or Latino,229,3.15,722.17,174.63,24.18
+US,New York,2025-10-31,65+,Female,Other,217,2.73,592.39,137.65,23.24
+US,New York,2025-10-31,65+,Female,White,209,2.69,561.36,39.54,7.04
+US,New York,2025-10-31,45-54,Male,Other,232,1.64,379.98,24.88,6.55
+US,New York,2025-10-31,65+,Prefer not to say,White,245,1.73,422.99,104.46,24.7
+US,Florida,2025-10-31,45-54,Female,Two or more races,244,2.54,619.19,104.18,16.83
+US,Florida,2025-10-31,55-64,Non-binary,White,231,3.08,710.46,121.31,17.07
+US,Florida,2025-10-31,35-44,Non-binary,Hispanic or Latino,221,2.19,484.58,57.85,11.94
+US,Florida,2025-10-31,25-34,Non-binary,White,223,3.33,741.59,73.9,9.96
+US,California,2025-11-30,45-54,Female,American Indian or Alaska Native,243,2.66,646.67,114.11,17.65
+US,California,2025-11-30,45-54,Female,American Indian or Alaska Native,221,2.42,534.37,86.28,16.15
+US,California,2025-11-30,65+,Prefer not to say,Two or more races,224,3.0,671.98,61.81,9.2
+US,Texas,2025-11-30,65+,Prefer not to say,Native Hawaiian or Other Pacific Islander,206,2.44,503.49,82.05,16.3
+US,Texas,2025-11-30,25-34,Male,Native Hawaiian or Other Pacific Islander,229,2.57,588.28,86.02,14.62
+US,Texas,2025-11-30,65+,Female,Asian,203,3.22,654.38,156.54,23.92
+US,Texas,2025-11-30,25-34,Female,Asian,226,1.55,350.47,28.47,8.12
+US,Texas,2025-11-30,25-34,Non-binary,American Indian or Alaska Native,216,2.01,433.68,38.69,8.92
+US,New York,2025-11-30,55-64,Prefer not to say,Native Hawaiian or Other Pacific Islander,213,3.27,697.56,112.55,16.13
+US,New York,2025-11-30,25-34,Non-binary,Other,250,2.31,578.2,66.38,11.48
+US,New York,2025-11-30,25-34,Non-binary,Black or African American,196,1.55,304.4,26.27,8.63
+US,New York,2025-11-30,45-54,Male,Hispanic or Latino,225,3.15,708.8,86.91,12.26
+US,New York,2025-11-30,45-54,Prefer not to say,American Indian or Alaska Native,213,2.23,474.03,105.34,22.22
+US,Florida,2025-11-30,45-54,Female,Native Hawaiian or Other Pacific Islander,232,2.63,610.52,150.84,24.71
+US,Florida,2025-11-30,18-24,Female,Asian,220,2.9,637.49,83.2,13.05
+US,Florida,2025-11-30,18-24,Female,Native Hawaiian or Other Pacific Islander,221,2.04,451.86,24.25,5.37
+US,Florida,2025-11-30,25-34,Prefer not to say,American Indian or Alaska Native,234,1.63,382.44,50.12,13.1
+US,Florida,2025-11-30,65+,Female,Hispanic or Latino,207,1.77,367.17,84.45,23.0
+US,California,2025-12-31,35-44,Prefer not to say,Black or African American,224,1.85,414.57,96.55,23.29
+US,California,2025-12-31,25-34,Male,Hispanic or Latino,232,2.21,512.2,123.81,24.17
+US,California,2025-12-31,18-24,Non-binary,American Indian or Alaska Native,224,2.28,510.4,54.99,10.77
+US,California,2025-12-31,45-54,Male,Asian,211,2.45,517.39,94.55,18.27
+US,Texas,2025-12-31,65+,Male,Other,207,2.02,419.08,70.83,16.9
+US,Texas,2025-12-31,35-44,Male,Native Hawaiian or Other Pacific Islander,254,2.75,697.65,101.05,14.48
+US,Texas,2025-12-31,18-24,Male,Other,230,2.88,661.67,90.63,13.7
+US,Texas,2025-12-31,35-44,Non-binary,Black or African American,233,2.04,476.32,80.04,16.8
+US,New York,2025-12-31,55-64,Prefer not to say,Asian,244,3.4,829.72,115.5,13.92
+US,New York,2025-12-31,45-54,Female,Other,239,3.11,744.04,135.23,18.18
+US,New York,2025-12-31,65+,Prefer not to say,Native Hawaiian or Other Pacific Islander,226,1.6,362.32,66.66,18.4
+US,New York,2025-12-31,25-34,Prefer not to say,Two or more races,219,1.74,381.29,74.81,19.62
+US,New York,2025-12-31,35-44,Prefer not to say,Other,219,3.19,698.41,79.49,11.38
+US,Florida,2025-12-31,18-24,Female,Two or more races,214,2.46,526.89,119.6,22.7
+US,Florida,2025-12-31,35-44,Prefer not to say,Black or African American,230,2.13,490.03,77.38,15.79
+US,Florida,2025-12-31,55-64,Female,White,230,2.35,541.34,121.98,22.53
+US,Florida,2025-12-31,25-34,Non-binary,Asian,238,3.25,773.36,120.48,15.58
+US,California,2026-01-31,35-44,Non-binary,Two or more races,197,2.46,484.53,80.51,16.62
+US,California,2026-01-31,45-54,Non-binary,White,232,2.34,543.51,107.35,19.75
+US,California,2026-01-31,65+,Male,Asian,219,3.21,702.04,135.57,19.31
+US,California,2026-01-31,55-64,Male,Other,217,2.86,620.47,58.11,9.37
+US,California,2026-01-31,25-34,Male,American Indian or Alaska Native,209,3.46,724.11,164.26,22.68
+US,California,2026-01-31,35-44,Female,American Indian or Alaska Native,193,3.18,612.9,58.91,9.61
+US,Texas,2026-01-31,55-64,Female,Black or African American,187,1.57,294.24,71.04,24.15
+US,Texas,2026-01-31,65+,Male,American Indian or Alaska Native,225,2.54,570.72,96.71,16.95
+US,Texas,2026-01-31,18-24,Male,Asian,216,2.89,624.68,50.46,8.08
+US,Texas,2026-01-31,35-44,Female,American Indian or Alaska Native,208,2.69,558.66,92.75,16.6
+US,Texas,2026-01-31,25-34,Non-binary,White,215,2.45,527.47,31.06,5.89
+US,New York,2026-01-31,45-54,Female,White,213,2.97,632.7,67.24,10.63
+US,New York,2026-01-31,45-54,Non-binary,Native Hawaiian or Other Pacific Islander,210,2.49,523.27,34.65,6.62
+US,New York,2026-01-31,45-54,Prefer not to say,American Indian or Alaska Native,221,2.64,584.02,106.54,18.24
+US,New York,2026-01-31,35-44,Male,American Indian or Alaska Native,230,3.24,744.35,73.73,9.91
+US,Florida,2026-01-31,35-44,Prefer not to say,White,213,3.36,715.72,50.94,7.12
+US,Florida,2026-01-31,35-44,Female,Hispanic or Latino,204,3.24,661.71,36.96,5.58
+US,Florida,2026-01-31,25-34,Female,Other,213,1.82,387.98,82.87,21.36
+US,Florida,2026-01-31,65+,Male,American Indian or Alaska Native,209,1.67,348.65,40.2,11.53
+US,Florida,2026-01-31,18-24,Male,Other,210,2.58,541.79,111.59,20.6
+US,California,2026-02-28,35-44,Female,Two or more races,222,2.18,484.79,85.58,17.65
+US,California,2026-02-28,65+,Male,American Indian or Alaska Native,233,3.04,708.72,169.71,23.95
+US,California,2026-02-28,18-24,Prefer not to say,Native Hawaiian or Other Pacific Islander,229,1.62,370.03,24.03,6.49
+US,California,2026-02-28,25-34,Female,Native Hawaiian or Other Pacific Islander,231,3.02,696.82,38.27,5.49
+US,Texas,2026-02-28,18-24,Female,Two or more races,219,2.87,627.78,87.38,13.92
+US,Texas,2026-02-28,65+,Female,American Indian or Alaska Native,250,3.21,802.1,124.65,15.54
+US,Texas,2026-02-28,55-64,Male,Asian,208,2.86,595.09,107.65,18.09
+US,Texas,2026-02-28,35-44,Non-binary,White,258,2.96,764.34,177.25,23.19
+US,Texas,2026-02-28,55-64,Non-binary,Hispanic or Latino,216,3.47,749.08,98.78,13.19
+US,New York,2026-02-28,65+,Non-binary,Black or African American,207,2.8,580.29,71.78,12.37
+US,New York,2026-02-28,45-54,Prefer not to say,Asian,262,3.24,848.16,174.14,20.53
+US,New York,2026-02-28,35-44,Female,Black or African American,231,1.76,407.14,23.01,5.65
+US,New York,2026-02-28,45-54,Female,Asian,205,1.5,308.01,52.26,16.97
+US,New York,2026-02-28,65+,Prefer not to say,Hispanic or Latino,217,2.48,538.85,33.86,6.28
+US,New York,2026-02-28,65+,Male,American Indian or Alaska Native,224,3.47,776.99,62.09,7.99
+US,Florida,2026-02-28,25-34,Female,Other,216,2.94,635.86,115.34,18.14
+US,Florida,2026-02-28,18-24,Male,Hispanic or Latino,232,2.46,570.96,40.53,7.1
+US,Florida,2026-02-28,18-24,Prefer not to say,White,223,2.46,549.63,50.6,9.21
